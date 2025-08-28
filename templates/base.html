@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{ title | default(value="Picnic Planner") }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" href="/static/favicon.png" />
+  {% include "styles.html" %}
+</head>
+<body>
+  {% include "nav.html" %}
+
+  <main>
+    <h1>Hikehikehikehike</h1>
+    
+    <div style="display: flex; flex-direction: row; gap: 24px; justify-content: space-between;">
+      {% include "sections/who.html" %}
+  
+      {% include "sections/when.html" %}
+
+    </div>
+    {% include "sections/where.html" %}
+    
+    {% include "sections/how.html" %}
+
+    {% include "sections/what.html" %}
+
+  </main>
+</body>
+</html>
