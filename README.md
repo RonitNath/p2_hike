@@ -5,8 +5,9 @@
 1. Download rust: https://www.rust-lang.org/tools/install
 2. Clone this repo `git clone https://github.com/RonitNath/p2_hike`
 3. Open terminal in repo
-4. Run `cargo run`
-5. Profit
+4. Make .env: `cp template.env .env` and set appropriate values (defaults are fine - maybe you want 127.0.0.1 for host)
+5. Run `cargo run`
+6. Profit
 
 Important!! Ensure you have `rust-analyzer` as an installed vscode extension or on your LSP or __suffer__!
 
