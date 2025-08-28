@@ -3,7 +3,7 @@
 ## Setup steps:
 
 1. Download rust: https://www.rust-lang.org/tools/install
-2. Clone this repo `git clone etc`
+2. Clone this repo `git clone https://github.com/RonitNath/p2_hike`
 3. Open terminal in repo
 4. Run `cargo run`
 5. Profit
