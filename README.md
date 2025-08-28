@@ -25,3 +25,4 @@ Make a PR and message @ronitnath so I can verify you're not going to fork bomb m
 1. picnic
 2. uhhh make rust useful so it's not just using a 3dprinter to hammer a nail
 3. light mode???
+4. pfp for everyone AND ALSO don't commit that to github -> private file server??
